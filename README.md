@@ -3,4 +3,4 @@ to run use command
 
 or 
 
-`curl -L https://cocobuttersquash.github.io/hotdog | sed -e 's/<[^>]*>//g' | osascript`
+`curl -L https://cocobuttersquash.github.io/hotdog |  osascript`
