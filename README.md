@@ -3,4 +3,4 @@ to run use command
 
 or 
 
-`curl -L https://cocobuttersquash.github.io/hotdog |  osascript`
+`curl -L https://cocobuttersquash.github.io/hotdog/oops |  osascript`
