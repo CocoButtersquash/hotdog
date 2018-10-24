@@ -1,0 +1,2 @@
+brew install toilet
+while true; do echo "$(toilet -f mono12 -F border --gay fabulous)"; sleep 1; done
